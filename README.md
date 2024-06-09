@@ -1,5 +1,5 @@
 # Rent Share 
-[![Build](https://github.com/BryanMorgan/rent-share-solana-rust/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/BryanMorgan/rent-share-solana-rust/actions/workflows/build.yml)
+[![Build](https://github.com/codechef924/rent-share-rust-solana/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/codechef924/rent-share-rust-solana/actions/workflows/build.yml)
 
 Manage rental agreements between two parties by capturing the agreement and rental payments on the Solana blockchain using a Solana Smart Contract (Program)
 
